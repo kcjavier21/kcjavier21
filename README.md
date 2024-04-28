@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Ken!</h1>
 
-<p>I am a software engineer and computer science graduate with extensive experience in full-stack web application development. Skilled in different programming languages including but not limited to JavaScript, Python, and Java. Possesses practical knowledge of numerous frameworks, libraries, databases, and cloud services. Constantly improving personal and professional skills, and taking on new challenges in the field of technology.</p>
+<p>I am a software engineer and computer science graduate with extensive experience in full-stack web application development. I love creating applications and digital services with the aim of making a better world and society. I'm constantly improving my personal and professional skills, and taking new challenges in the field of technology.</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kcjavier21&color=blue&base=4324">
