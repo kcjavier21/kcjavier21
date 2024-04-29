@@ -7,7 +7,7 @@
   <a href="https://github.com/scaredmeow">
     <img src="https://img.shields.io/github/followers/kcjavier21?label=Github&style=social" alt="github">
   </a>
-  <a href="https://www.linkedin.com/in/kcjavier21/">
+  <a href="https://www.instagram.com/kcjavier21/">
     <img src="https://img.shields.io/badge/- -%232c3e50?label=Instagram&style=social&logo=instagram" alt="instagram">
   </a>
   <a href="https://www.linkedin.com/in/kcjavier21/">
